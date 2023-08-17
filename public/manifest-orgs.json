@@ -1,0 +1,11 @@
+{
+  "name": "Figma Tips",
+  "id": "971182541228900831",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "index.html",
+  "relaunchButtons": [
+    {"command": "play", "name": "Play Figma Tip"},
+    {"command": "open", "name": "Open Figma Tips"}
+  ]
+}
